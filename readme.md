@@ -4,7 +4,7 @@
 
 ## Dataset
 > 
-This investigation explored loans dataset from Prosper Marketplace Inc. - a California-based company in the peer-to-peer lending industry.. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.. More information about Prosper can be found [here](https://www.prosper.com/about). Out of over 113,937 loans data in this data set, the aim of this analysis was to focus all data exploration efforts on about about 10-15 of them to provide answers to a few critical questions about:
+This project explored loan datasets from Prosper Marketplace Inc. - a California-based company in the peer-to-peer lending industry. This dataset contains 113,937 loans and 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.. More information about Prosper can be found [here](https://www.prosper.com/about). Out of 81 loans variables in this dataset, the aim of this analysis was to focus all data exploration efforts on about about 10-15 of them to provide answers to a few critical questions about:
 
 - Distribution of investors.
 - Annual progression of the borrower rates of loans
@@ -24,9 +24,9 @@ At the heart of every analysis is a question. A few critical questions were aske
 ## Summary of Findings
 > 
 Click [here](https://github.com/a-aqua/Exploration-and-Analysis-of-Prosper-Loans-Data/blob/master/slide_deck_template.ipynb) to view a slide deck of my findings
-- Distribution of investors: analysis showed that investors gravitate towards sponsoring smaller loan bundles collected by many borrowers over bigger loans collected by fewer borrowers.
-- Yearly progression of the borrower rates: analysis shows a steady increase in Year-on-Year lending activity. With an exception of a sharp decline in 2008 (possibly due to the financial recession). Since then there has been more Year-on-Year growth recorded. 
-- Do home-owners enjoy lower borrower rates: analysis suggests that owning a property (home) results in higher loan rating. A higher rating results in a better loan offering at reduced rates.
+- **Distribution of investors:** analysis showed that investors gravitate towards sponsoring smaller loan bundles collected by many borrowers over bigger loans collected by fewer borrowers.
+- **Yearly progression of the borrower rates:** analysis shows a steady increase in Year-on-Year lending activity. With an exception of a sharp decline in 2008 (possibly due to the financial recession). Since then there has been more Year-on-Year growth recorded. 
+- **Do home-owners enjoy lower borrower rates:** analysis suggests that owning a property (home) results in higher loan rating. A higher rating results in a better loan offering at reduced rates.
 
 
 ## Resources
