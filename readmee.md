@@ -4,8 +4,7 @@
 
 ## Dataset
 > 
-This investigation explored loans dataset from Prosper Marketplace Inc. - a California-based company in the peer-to-peer lending industry.. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.. More information about Prosper can be found [here](https://www.prosper.com/about), 
-with feature documentation available [here](https://www.transtats.bts.gov). There are over 113,937 loans information in this data set. And the aim of this analysis was to focus all data exploration efforts on about 10-15 of them to provide answers to a few critical questions about:
+This investigation explored loans dataset from Prosper Marketplace Inc. - a California-based company in the peer-to-peer lending industry.. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.. More information about Prosper can be found [here](https://www.prosper.com/about). There are over 113,937 loans information in this data set. And the aim of this analysis was to focus all data exploration efforts on about 10-15 of them to provide answers to a few critical questions about:
 
 - Distribution of investors.
 - Annual progression of the borrower rates of loans
