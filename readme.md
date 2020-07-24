@@ -13,7 +13,7 @@ This investigation explored loans dataset from Prosper Marketplace Inc. - a Cali
 
 ## Summary of Analysis
 > 
-At the heart of every analysis is a question. A few critical questions were asked at the start of my analysis and the following process was used to provide answers to these questions.
+At the heart of every analysis is a question. A few critical questions were asked at the start of my analysis and the following process was used to provide answers to these questions. Click [here](https://github.com/a-aqua/Exploration-and-Analysis-of-Prosper-Loans-Data/blob/master/exploration_template.ipynb) to view my analysis notebook.
 - Data was acquired and imported into notebook environment.
 - Data was wrangled through the conventional gathering, assessment and cleaning process.
 - Univariate Data Exploration was conducted.
@@ -23,6 +23,7 @@ At the heart of every analysis is a question. A few critical questions were aske
 
 ## Summary of Findings
 > 
+Click [here](https://github.com/a-aqua/Exploration-and-Analysis-of-Prosper-Loans-Data/blob/master/slide_deck_template.ipynb) to view a slide deck of my findings
 - Distribution of investors: analysis showed that investors gravitate towards sponsoring smaller loan bundles collected by many borrowers over bigger loans collected by fewer borrowers.
 - Yearly progression of the borrower rates: analysis shows a steady increase in Year-on-Year lending activity. With an exception of a sharp decline in 2008 (possibly due to the financial recession). Since then there has been more Year-on-Year growth recorded. 
 - Do home-owners enjoy lower borrower rates: analysis suggests that owning a property (home) results in higher loan rating. A higher rating results in a better loan offering at reduced rates.
