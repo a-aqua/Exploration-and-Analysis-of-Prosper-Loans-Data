@@ -1,24 +1,33 @@
-# Prosper Loan Data Exploration
+# Project: Loans Data Analysis 
+## by Abdulquadri Aliyu 
+
 
 ## Dataset
+> 
+This investigation explored loans dataset from Prosper Marketplace Inc. - a California-based company in the peer-to-peer lending industry.. This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.. More information about Prosper can be found [here](https://www.prosper.com/about). Out of over 113,937 loans data in this data set, the aim of this analysis was to focus all data exploration efforts on about about 10-15 of them to provide answers to a few critical questions about:
 
-The loan data from Prosper comprise 113,937 entries of loans with 81 different variables. The description of each variable can be found [here](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1548879281265000).
-
-- Data was wrangled through gathering, assessment and cleaning
-- Univariate Data Exploration was conducted
-- Bivariate Data Exploration was conducted 
-- Multivariate Data Exploration was conducted 
+- Distribution of investors.
+- Annual progression of the borrower rates of loans
+- Relationship between borrower rate of loans, prosper ratings and customers who are home owners
 
 
-## About Prosper
-
-Prosper, otherwise known as Prosper Marketplace Inc. is a San Francisco, California-based company in the peer-to-peer lending industry. The 'About Us' page on prosper's website says... "Prosper was founded in 2005 as the first peer-to-peer lending marketplace in the United States. Since then, Prosper has facilitated more than $17 billion in loans to more than 1,010,000 people.
-
-Through Prosper, people can invest in each other in a way that is financially and socially rewarding. Borrowers apply online for a fixed-rate, fixed-term loan between $2,000 and $40,000. Individuals and institutions can invest in the loans and earn attractive returns. Prosper handles all loan servicing on behalf of the matched borrowers and investors.
-
-Prosper Marketplace is backed by leading investors including Sequoia Capital, Francisco Partners, Institutional Venture Partners, and Credit Suisse NEXT Fund."
+## Summary of Analysis
+> 
+At the heart of every analysis is a question. A few critical questions were asked at the start of my analysis and the following process was used to provide answers to these questions.
+- Data was acquired and imported into notebook environment.
+- Data was wrangled through the conventional gathering, assessment and cleaning process.
+- Univariate Data Exploration was conducted.
+- Bivariate Data Exploration was conducted.
+- Multivariate Data Exploration was conducted.
 
 
 ## Summary of Findings
+> 
+- Distribution of investors: analysis showed that investors gravitate towards sponsoring smaller loan bundles collected by many borrowers over bigger loans collected by fewer borrowers.
+- Yearly progression of the borrower rates: analysis shows a steady increase in Year-on-Year lending activity. With an exception of a sharp decline in 2008 (possibly due to the financial recession). Since then there has been more Year-on-Year growth recorded. 
+- Do home-owners enjoy lower borrower rates: analysis suggests that owning a property (home) results in higher loan rating. A higher rating results in a better loan offering at reduced rates.
 
-Out of 81 variables in this dataset, after data wrangling I focused on exploring the top few variables I considered to have the greatest influence on a lenders borrower rate. In most cases, the outcome of my analyses agrees with conventional wisdom in the lending industry while in other fewer cases. Examine the rest of my exploration and see for yourself
+
+## Resources
+>
+All resources used for during analysis have been detailed in the Jupyter Notebooks.
