@@ -13,7 +13,7 @@ In this project I explored loan datasets from Prosper Marketplace Inc. - a Calif
 
 ## Summary of Analysis
 > 
-At the heart of every analysis is a question. A few critical questions were asked at the start of my analysis and the following process was used to provide answers to these questions. Click [here](https://github.com/a-aqua/Exploration-and-Analysis-of-Prosper-Loans-Data/blob/master/exploration_template.ipynb) to view my analysis notebook.
+At the heart of every analysis is a question. A few critical questions were asked at the start of my analysis and the following process was used to provide answers to these questions. **Click [here](https://github.com/a-aqua/Exploration-and-Analysis-of-Prosper-Loans-Data/blob/master/exploration_template.ipynb) to view my analysis notebook.**
 - Data was acquired and imported into notebook environment.
 - Data was wrangled through the conventional gathering, assessment and cleaning process.
 - Univariate Data Exploration was conducted.
